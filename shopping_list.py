@@ -3,7 +3,7 @@ import os
 EXIT = "exit"
 NAME_FILE = "shopping_list.txt"
 # Products available
-super_items = ["milk", "bread", "egg", "cheese"]
+super_items = ["bread", "egg", "cheese"]
 
 
 def ask_the_user():
